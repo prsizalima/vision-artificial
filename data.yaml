@@ -1,0 +1,4 @@
+path: C:\Users\Andre\OneDrive\Desktop\data_setYolo
+train: images/train
+val: images/val
+names: ['Iguana marina', 'Tortuga gigante', 'Rana enana de colorado', 'Colibrí de Esmeraldas', 'Viscacha Ecuatorina']
